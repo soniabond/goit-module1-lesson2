@@ -8,6 +8,8 @@ to checkout git history -> git log
 
 to get into certain commit -> git checkout "hash of commit"
 
+return to HEAD -> git checkout "branch name" or git checkout HEAD
+
 push local changes -> git push "remote repo name" "branch name"
 ex: git push origin master
 

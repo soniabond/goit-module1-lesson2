@@ -1,1 +1,5 @@
-to init new repo -> git init
+to init new repo (only 1 time)-> git init 
+
+to track file by git -> git add "file name"(git add -u or git add .)
+
+to commit (save) changes -> git commit -m "your message"

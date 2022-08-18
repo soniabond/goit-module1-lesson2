@@ -3,3 +3,7 @@ to init new repo (only 1 time)-> git init
 to track file by git -> git add "file name"(git add -u or git add .)
 
 to commit (save) changes -> git commit -m "your message"
+
+to checkout git history -> git log
+
+to get into certain commit -> git checkout "hash of commit"

@@ -12,3 +12,5 @@ push local changes -> git push "remote repo name" "branch name"
 ex: git push origin master
 
 to create new branch -> git checkout -b "branch name"
+
+my first conflict
